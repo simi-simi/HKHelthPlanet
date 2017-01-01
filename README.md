@@ -1,0 +1,2 @@
+# HKHelthPlanet
+HelthKitとHelthPlanetの同期をサポートするプログラム
